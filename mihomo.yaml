@@ -1,0 +1,921 @@
+proxies:
+  - name: "\U0001F1FA\U0001F1F8US_1 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 80
+    server: 104.27.126.10
+    type: vless
+    udp: true
+    uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+    ws-opts:
+      headers:
+        Host: kssepa.sabzipolobamahi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.100 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: kssepa.sabzipolobamahi.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_2 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 80
+    server: 172.67.17.195
+    skip-cert-verify: true
+    tls: false
+    type: vless
+    udp: true
+    uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa
+    ws-opts:
+      headers:
+        Host: sib.sibzamini.dpdns.org
+      path: /?ed=2560
+    servername: sib.sibzamini.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_3 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 172.67.62.141
+    type: vless
+    udp: true
+    uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa
+    ws-opts:
+      headers:
+        Host: sib.sibzamini.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/50.0.2661.102 Safari/537.36
+      path: /BaRAyeIran?ed=2560
+    xudp: true
+  - name: ❓Other_1 | ⬇️ 1.7MB/s
+    network: ws
+    port: 80
+    server: 172.66.212.68
+    type: vless
+    udp: true
+    uuid: 148709e4-402b-48dd-8892-ed39b55ea45c
+    ws-opts:
+      headers:
+        Host: entezar.loseyourself.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/34.0.1847.131 Safari/537.36
+      path: /?ed=2570
+    xudp: true
+  - auth: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+    delay: 1356
+    name: "\U0001F1FA\U0001F1F8US_4 | ⬇️ 7.3MB/s"
+    password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+    port: 10086
+    server: aus.pagate.top
+    skip-cert-verify: false
+    sni: aus.pagate.top
+    type: hysteria2
+  - auth: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+    delay: 2091
+    name: "\U0001F1F8\U0001F1ECSG_1 | ⬇️ 10.1MB/s"
+    password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
+    port: 10086
+    server: asg.pagate.top
+    skip-cert-verify: false
+    sni: asg.pagate.top
+    type: hysteria2
+  - name: "\U0001F1FA\U0001F1F8US_5 | ⬇️ 3.7MB/s"
+    network: ws
+    port: 80
+    server: 172.67.254.80
+    type: vless
+    udp: true
+    uuid: 948f6596-66f9-4707-aa92-3107a214ce53
+    ws-opts:
+      headers:
+        Host: oops.shalamshorba.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Unknown; Linux) AppleWebKit/538.1 (KHTML, like Gecko)
+          Chrome/v1.0.0 Safari/538.1
+      path: /?ed=2560
+    xudp: true
+    servername: oops.shalamshorba.dpdns.org
+  - name: ❓Other_2 | ⬇️ 4.3MB/s
+    network: ws
+    port: 80
+    server: 104.21.103.107
+    type: vless
+    udp: true
+    uuid: 948f6596-66f9-4707-aa92-3107a214ce53
+    ws-opts:
+      headers:
+        Host: oops.shalamshorba.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/70.0.3538.77 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: oops.shalamshorba.dpdns.org
+  - name: ❓Other_3 | ⬇️ 3.8MB/s
+    network: ws
+    port: 80
+    server: 172.67.157.20
+    type: vless
+    udp: true
+    uuid: 4179c595-08ca-45cd-b555-91b6f1faeadc
+    ws-opts:
+      headers:
+        Host: di.dibdibini.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: di.dibdibini.dpdns.org
+  - client-fingerprint: chrome
+    name: ❓Other_4 | ⬇️ 1.7MB/s
+    network: ws
+    port: 443
+    server: 162.159.4.8
+    tls: true
+    type: vless
+    udp: true
+    uuid: 63c2eb9b-4b10-4eea-91a5-8435514c670c
+    ws-opts:
+      headers:
+        Host: rayan-fg-1.hedieh.filegear-sg.me
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-fg-1.hedieh.filegear-sg.me
+  - name: "\U0001F1FA\U0001F1F8US_6 | ⬇️ 17.2MB/s"
+    network: ws
+    port: 80
+    server: 104.18.42.254
+    type: vless
+    udp: true
+    uuid: 68b48eeb-5770-4eb3-9b77-deeb77a41ccf
+    ws-opts:
+      headers:
+        Host: varzesh3.varzesh.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/59.0.3071.125 Mobile Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: varzesh3.varzesh.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_7 | ⬇️ 3.7MB/s"
+    network: ws
+    port: 80
+    server: 172.67.78.196
+    type: vless
+    udp: true
+    uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853
+    ws-opts:
+      headers:
+        Host: tannaz.juveitaly.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36
+          (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: tannaz.juveitaly.dpdns.org
+  - name: ❓Other_5 | ⬇️ 2.5MB/s
+    network: ws
+    port: 80
+    server: 104.21.81.174
+    type: vless
+    udp: true
+    uuid: 23b3cbba-e6ac-485a-9481-342a0415eab9
+    ws-opts:
+      headers:
+        Host: DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /wP3dwCyRAVyMJFfW?ed=2560
+    xudp: true
+  - name: ❓Other_6 | ⬇️ 7.7MB/s
+    network: ws
+    port: 80
+    server: 104.16.181.110
+    type: vless
+    udp: true
+    uuid: 1f431db3-1918-4e7b-a855-c93485e11694
+    ws-opts:
+      headers:
+        Host: pari.parinazz.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /?ed=2570
+    xudp: true
+  - name: ❓Other_8 | ⬇️ 1.4MB/s
+    network: ws
+    port: 80
+    server: 172.67.14.59
+    type: vless
+    udp: true
+    uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa
+    ws-opts:
+      headers:
+        Host: kssepa.sabzipolobamahi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: kssepa.sabzipolobamahi.dpdns.org
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: randomized
+    name: ❓Other_7 | ⬇️ 1.7MB/s
+    network: ws
+    port: 8443
+    server: 172.66.132.196
+    tls: true
+    type: vless
+    udp: true
+    uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+    ws-opts:
+      headers:
+        Host: UuHUhYygeSDFgH.uyhjHgvgfcjgujHbuilbVFdxdXm.Xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.106 Safari/537.36
+      path: /sMCNjwi0FFy3GPdY/ODQuMjM1LjE2OS4yMzQ=?ed=2560
+    xudp: true
+    servername: UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz
+  - client-fingerprint: chrome
+    name: ❓Other_9 | ⬇️ 1.1MB/s
+    network: ws
+    port: 443
+    server: 162.159.9.55
+    tls: true
+    type: vless
+    udp: true
+    uuid: ee06e485-f3d1-46c0-97f4-e98040b828ed
+    ws-opts:
+      headers:
+        Host: rayan-fg-4.sahel.filegear-sg.me
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/45.0.2454.93 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-fg-4.sahel.filegear-sg.me
+  - name: "\U0001F1F3\U0001F1F1NL_1 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 172.67.12.164
+    type: vless
+    udp: true
+    uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00
+    ws-opts:
+      headers:
+        Host: a1.ghormehsabzi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: a1.ghormehsabzi.dpdns.org
+  - name: ❓Other_10 | ⬇️ 1.1MB/s
+    network: ws
+    port: 80
+    server: 172.67.207.181
+    type: vless
+    udp: true
+    uuid: 5a4e040a-8de6-4222-bd6f-9f535b8772fd
+    ws-opts:
+      headers:
+        Host: calm-violet-0e47.pomofoc222.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/46.0.2490.71 Safari/537.36
+      path: /lrJO6NEVRGHecfbo?ed=2560
+    xudp: true
+  - name: ❓Other_11 | ⬇️ 10.9MB/s
+    network: ws
+    port: 80
+    server: 172.67.212.233
+    type: vless
+    udp: true
+    uuid: 948f6596-66f9-4707-aa92-3107a214ce53
+    ws-opts:
+      headers:
+        Host: oops.shalamshorba.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.112 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: oops.shalamshorba.dpdns.org
+  - name: ❓Other_12 | ⬇️ 1.9MB/s
+    network: ws
+    port: 8880
+    server: 104.21.7.193
+    type: vless
+    udp: true
+    uuid: 0d7bff32-241b-4f97-af9a-f8e7c7fe8ce3
+    ws-opts:
+      headers:
+        Host: 0602.eshroy192.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/63.0.3239.84 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+  - name: ❓Other_13 | ⬇️ 1.9MB/s
+    network: ws
+    port: 80
+    server: 104.21.62.181
+    type: vless
+    udp: true
+    uuid: 68b48eeb-5770-4eb3-9b77-deeb77a41ccf
+    ws-opts:
+      headers:
+        Host: varzesh3.varzesh.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.117 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: varzesh3.varzesh.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_8 | ⬇️ 11.0MB/s"
+    network: ws
+    port: 80
+    server: 104.24.31.150
+    type: vless
+    udp: true
+    uuid: 9d6315f7-f272-4806-97c8-5fdaafad391e
+    ws-opts:
+      headers:
+        Host: lot.sosant.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile
+          Safari/537.36
+      path: /?ed=2570
+    xudp: true
+  - name: ❓Other_14 | ⬇️ 1.2MB/s
+    network: ws
+    port: 80
+    server: 172.67.193.209
+    type: vless
+    udp: true
+    uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853
+    ws-opts:
+      headers:
+        Host: tannaz.juveitaly.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/41.0.2272.118 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: tannaz.juveitaly.dpdns.org
+  - name: ❓Other_15 | ⬇️ 3.0MB/s
+    network: ws
+    port: 80
+    server: 172.66.177.129
+    type: vless
+    udp: true
+    uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853
+    ws-opts:
+      headers:
+        Host: tannaz.juveitaly.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: tannaz.juveitaly.dpdns.org
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_9 | ⬇️ 10.4MB/s"
+    network: ws
+    port: 443
+    server: 104.25.227.244
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8df60790-c903-4661-b85d-64c0009378e5
+    ws-opts:
+      headers:
+        Host: f1.parsa.filegear-sg.me
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: F1.paRsa.fiLegEar-Sg.Me
+  - name: ❓Other_16 | ⬇️ 3.9MB/s
+    network: ws
+    port: 8080
+    server: 141.101.121.224
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: 1750293123492.china.baidu.bilibili.china.aeko.cn
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1.1; A37fw Build/LMY47V)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - name: "\U0001F1FA\U0001F1F8US_10 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 2095
+    server: 104.18.41.190
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: xijinpingnmsl.s4ar.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+  - client-fingerprint: chrome
+    name: ❓Other_17 | ⬇️ 1.5MB/s
+    network: ws
+    port: 443
+    server: 162.159.2.9
+    tls: true
+    type: vless
+    udp: true
+    uuid: ee06e485-f3d1-46c0-97f4-e98040b828ed
+    ws-opts:
+      headers:
+        Host: rayan-fg-4.sahel.filegear-sg.me
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-fg-4.sahel.filegear-sg.me
+  - name: ❓Other_18 | ⬇️ 2.3MB/s
+    network: ws
+    port: 8080
+    server: 104.16.60.79
+    type: vless
+    udp: true
+    uuid: 2b4bed25-a5ef-439d-93b1-395b7bcec58b
+    ws-opts:
+      headers:
+        Host: workerr.dimon22287.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile
+          Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - client-fingerprint: chrome
+    name: ❓Other_19 | ⬇️ 1.7MB/s
+    network: ws
+    port: 443
+    server: 104.18.204.33
+    tls: true
+    type: vless
+    udp: true
+    uuid: 67534bac-51db-4f20-94b7-ba4971f64b15
+    ws-opts:
+      headers:
+        Host: rayan-goft.negin.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: rayan-goft.negin.dpdns.org
+  - name: ❓Other_20 | ⬇️ 1.2MB/s
+    network: ws
+    port: 80
+    server: 172.67.194.241
+    type: vless
+    udp: true
+    uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d
+    ws-opts:
+      headers:
+        Host: delam.ahaysiahzangi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/68.0.3440.106 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: delam.ahaysiahzangi.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_11 | ⬇️ 3.5MB/s"
+    network: ws
+    port: 80
+    server: 172.66.150.129
+    type: vless
+    udp: true
+    uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa
+    ws-opts:
+      headers:
+        Host: sib.sibzamini.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /?ed=2570
+    xudp: true
+  - name: ❓Other_21 | ⬇️ 1.3MB/s
+    network: ws
+    port: 80
+    server: 172.67.168.93
+    type: vless
+    udp: true
+    uuid: 8169cd18-e824-47a4-a4d4-96433b1a519d
+    ws-opts:
+      headers:
+        Host: testdvpnhub69.95f425b718.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 5A Build/N2G47H; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - name: ❓Other_22 | ⬇️ 17.8MB/s
+    network: ws
+    port: 80
+    server: 172.66.138.99
+    type: vless
+    udp: true
+    uuid: 68b48eeb-5770-4eb3-9b77-deeb77a41ccf
+    ws-opts:
+      headers:
+        Host: varzesh3.varzesh.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/65.0.3325.181 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: varzesh3.varzesh.dpdns.org
+  - name: ❓Other_23 | ⬇️ 1.2MB/s
+    network: ws
+    port: 2082
+    server: 159.112.235.174
+    type: vless
+    udp: true
+    uuid: 47e9a0db-50c6-4522-8819-502c55b06dde
+    ws-opts:
+      headers:
+        Host: workerr.schodog1.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; TRT-LX3 Build/HUAWEITRT-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /?ed=2048
+    xudp: true
+  - name: "\U0001F1FA\U0001F1F8US_12 | ⬇️ 1.7MB/s"
+    network: ws
+    port: 80
+    server: 172.66.141.21
+    type: vless
+    udp: true
+    uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00
+    ws-opts:
+      headers:
+        Host: a1.ghormehsabzi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: a1.ghormehsabzi.dpdns.org
+  - client-fingerprint: chrome
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1F9\U0001F1FCTW_1 | ⬇️ 3.1MB/s"
+    network: tcp
+    port: 34045
+    reality-opts:
+      public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+      short-id: e8ab71d0
+    server: 103.137.247.92
+    tls: true
+    type: vless
+    udp: true
+    uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+    xudp: true
+    servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+  - name: ❓Other_24 | ⬇️ 1.9MB/s
+    network: ws
+    port: 2095
+    server: 104.18.32.69
+    type: vless
+    udp: true
+    uuid: 33039dbe-8889-42f1-9aeb-ecfbfa2a1640
+    ws-opts:
+      headers:
+        Host: 21tg.459tj345.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+  - name: ❓Other_25 | ⬇️ 1.4MB/s
+    network: ws
+    port: 80
+    server: 172.67.208.49
+    type: vless
+    udp: true
+    uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa
+    ws-opts:
+      headers:
+        Host: sib.sibzamini.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/68.0.3440.106 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: sib.sibzamini.dpdns.org
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_13 | ⬇️ 1.7MB/s"
+    network: ws
+    port: 443
+    server: 188.114.96.6
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8df60790-c903-4661-b85d-64c0009378e5
+    ws-opts:
+      headers:
+        Host: f1.parsa.filegear-sg.me
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/55.0.2883.87 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: F1.paRsa.fiLegEar-Sg.Me
+  - alpn:
+      - http/1.1
+    client-fingerprint: randomized
+    name: ❓Other_26 | ⬇️ 11.4MB/s
+    network: ws
+    password: 100b5163-fbb8-425d-9621-44d119555aa4
+    port: 2053
+    server: 172.67.175.148
+    skip-cert-verify: false
+    sni: MaHSA2.cffoRm.SitE
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /trWCuRIwSn9S6fDZGE/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=
+  - name: "\U0001F1FA\U0001F1F8US_14 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 80
+    server: 172.67.67.92
+    type: vless
+    udp: true
+    uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d
+    ws-opts:
+      headers:
+        Host: delam.ahaysiahzangi.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/49.0.2623.112 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: delam.ahaysiahzangi.dpdns.org
+  - name: "\U0001F1FA\U0001F1F8US_15 | ⬇️ 2.3MB/s"
+    network: ws
+    port: 80
+    server: 172.67.177.223
+    type: vless
+    udp: true
+    uuid: 9d6315f7-f272-4806-97c8-5fdaafad391e
+    ws-opts:
+      headers:
+        Host: lot.sosant.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/47.0.2526.111 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+    servername: lot.sosant.dpdns.org
+rule-providers:
+  private:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
+    path: ./ruleset/private.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.yaml
+    path: ./ruleset/cn_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    path: ./ruleset/telegram_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  google_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.yaml
+    path: ./ruleset/google_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  geolocation-!cn:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.yaml
+    path: ./ruleset/geolocation-!cn.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/cn.yaml
+    path: ./ruleset/cn_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/telegram.yaml
+    path: ./ruleset/telegram_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  google_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/google.yaml
+    path: ./ruleset/google_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bing/Bing.yaml
+    path: ./ruleset/bing.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  copilot:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  claude:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/claude.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bard:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    path: ./ruleset/bard.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  openai:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+proxy-groups:
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png'
+    name: AIGC
+    type: select
+    proxies:
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png'
+    name: Telegram
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Google.png'
+    name: Google
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)香港|Hong Kong|HK|\U0001F1ED\U0001F1F0"
+    name: HK AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)新加坡|Singapore|\U0001F1F8\U0001F1EC"
+    name: SG AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)日本|Japan|\U0001F1EF\U0001F1F5"
+    name: JP AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)美国|USA|\U0001F1FA\U0001F1F8"
+    name: US AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Global.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    proxies:
+      - PROXY
+      - AUTO
+      - AIGC
+      - Telegram
+      - Google
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+    name: GLOBAL
+    type: select
+rules:
+  - 'PROCESS-NAME,subs-check.exe,DIRECT'
+  - 'PROCESS-NAME,subs-check,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,bing,AIGC'
+  - 'RULE-SET,copilot,AIGC'
+  - 'RULE-SET,bard,AIGC'
+  - 'RULE-SET,openai,AIGC'
+  - 'RULE-SET,claude,AIGC'
+  - 'RULE-SET,steam,PROXY'
+  - 'RULE-SET,telegram_domain,Telegram'
+  - 'RULE-SET,telegram_ip,Telegram'
+  - 'RULE-SET,google_domain,Google'
+  - 'RULE-SET,google_ip,Google'
+  - 'RULE-SET,geolocation-!cn,PROXY'
+  - 'RULE-SET,cn_domain,DIRECT'
+  - 'RULE-SET,cn_ip,DIRECT'
+  - 'MATCH,PROXY'
